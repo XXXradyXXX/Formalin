@@ -10,7 +10,6 @@ html5lib==1.0.1
 idna==2.7
 itsdangerous==1.1.0
 Jinja2==2.10
-MarkupSafe==1.0
 prompt-toolkit==2.0.7
 pymessenger==0.0.7.0
 requests==2.20.1
